@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 
-<h1> My name is Tasme' </h1>
+<h1> My name is Tasme' Komal</h1>
 <h2> I am in Grade 8 </h2> 
 <link <i>rel</i>="stylesheet" <i>href="index.css">
 
 <body> body { 
-background-color: rgb(233, 170, 214);
+background-color: lightblue;
 text-align: center;
+color: white;
+font-family: verdana;
+ font-size: 20px;
 }
       <p> 
            I live in <b>South Africa</b>. 
