@@ -2,7 +2,7 @@
 
 <h1> My name is Tasme' </h1>
 <h2> I am in Grade 8 </h2> 
-<link rel="stylesheet" href="index.css">
+<link <i>rel</i>="stylesheet" <i>href</i>="index.css">
 
 <body> body { 
 background-color: rgb(233, 170, 214);
